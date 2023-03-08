@@ -75,7 +75,7 @@ node server.js
 * Sequelize
 
 
-## Application Screenshot Preview (Insomnia)
+## Application Screenshot Preview 
 
 ![Screenshot 2023-03-08 125854](https://user-images.githubusercontent.com/113931387/223793682-bd75ea0d-02e6-4e76-8f71-c441e39ec0ec.png)
 
